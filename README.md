@@ -1,6 +1,5 @@
 <h1 align="center">Hello 🌍!</h1>
-<h3 align="center">My name is Jacob.</h3>
-<h3 align="center">Into programming since 2016.</h3>
+<h2 align="center">My name is Jacob. </ br>Into programming since 2016.</h2>
 
 <h4>Languages:</h4>
 <p>
