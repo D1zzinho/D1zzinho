@@ -44,9 +44,6 @@
 
 <h4>Stats</h4>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d1zzinho&show_icons=true&locale=en&layout=compact" alt="d1zzinho" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=d1zzinho&hide_title=true&show_icons=true&locale=en" alt="d1zzinho" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d1zzinho&show_icons=true&locale=en&layout=compact" alt="d1zzinho" />
+  <img src="https://github-readme-stats.vercel.app/api?username=d1zzinho&hide_title=true&show_icons=true&locale=en" alt="d1zzinho" />
 </p>
