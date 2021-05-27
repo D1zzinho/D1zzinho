@@ -1,21 +1,21 @@
 <h1 align="center">Hello 🌍!</h1>
-<h3 align="center">My name is Jacob and I'm about to finish Master's Degree in Computer Science.</h3>
-<h3>I've been into programming since 2016. There were a lot of ups and downs, but finally I've found what I enjoy the most.</h3>
+<h3 align="center">My name is Jacob.</h3>
+<h3 align="center">Into programming since 2016.</h3>
 
-<h4 align="center">Some information about technologies I'm interested in:</h4>
-<h5 align="center">Languages:</h5>
+<h4>Languages:</h4>
 <p align="center">
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
 </p>
 
-<h5 align="center">Backend:</h5>
+<h4>Technologies and skills:</h4>
 <p align="center">
   <a href="https://nestjs.com" target="_blank">
     <img src="https://user-images.githubusercontent.com/13108166/32161516-25ee8a3c-bd56-11e7-9d49-76faed577e1a.png" width="40" height="40" />
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank">
