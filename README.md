@@ -3,14 +3,14 @@
 <h3 align="center">Into programming since 2016.</h3>
 
 <h4>Languages:</h4>
-<p align="center">
+<p>
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
 </p>
 
 <h4>Technologies and skills:</h4>
-<p align="center">
+<p>
   <a href="https://nestjs.com" target="_blank">
     <img src="https://user-images.githubusercontent.com/13108166/32161516-25ee8a3c-bd56-11e7-9d49-76faed577e1a.png" width="40" height="40" />
   </a>
