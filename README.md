@@ -5,11 +5,11 @@
   My name is Jacob.
 </h3>
 <h2 align="center">
-  Student and Junior Web Developer.
+  Junior Backend PHP Developer (and also Frontend dev).
 </h2>
 
-<h4>Languages</h4>
-<p>
+<h4 align="center">Languages</h4>
+<p align="center">
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -21,8 +21,8 @@
 </p>
 
 
-<h4>Frameworks and libraries</h4>
-<p>
+<h4 align="center">Frameworks and libraries</h4>
+<p align="center">
   <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
@@ -33,8 +33,8 @@
 </p>
 
 
-<h4>Databases</h4>
-<p>
+<h4 align="center">Databases</h4>
+<p align="center">
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -42,8 +42,8 @@
 </p>
 
 
-<h4>Stats</h4>
-<p>
+<h4 align="center">Stats</h4>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d1zzinho&show_icons=true&locale=en&layout=compact" alt="d1zzinho" />
-  <img src="https://github-readme-stats.vercel.app/api?username=d1zzinho&hide_title=true&show_icons=true&locale=en" alt="d1zzinho" />
+  <img style="width: 43%" src="https://github-readme-stats.vercel.app/api?username=d1zzinho&hide_title=true&show_icons=true&locale=en" alt="d1zzinho" />
 </p>
