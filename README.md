@@ -5,7 +5,7 @@
   My name is Jacob.
 </h3>
 <h2 align="center">
-  Backend PHP Developer (and also Frontend dev).
+  Backend PHP Developer.
 </h2>
 
 <h4 align="center">Languages</h4>
