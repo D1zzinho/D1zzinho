@@ -41,10 +41,3 @@
   <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
-
-
-<h4 align="center">Stats</h4>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d1zzinho&show_icons=true&locale=en&layout=compact" alt="d1zzinho" />
-  <img style="width: 43%" src="https://github-readme-stats.vercel.app/api?username=d1zzinho&hide_title=true&show_icons=true&locale=en" alt="d1zzinho" />
-</p>
